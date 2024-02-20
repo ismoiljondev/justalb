@@ -1,0 +1,29 @@
+.wr {
+  height: 230px;
+  overflow: hidden;
+  width: 95%;
+  margin: 0 auto;
+  transform: translateY(-20%);
+  border-radius: 50% 0 50% 50%;
+}
+
+@media (min-width: 1200px) {
+  .wr {
+    height: 230px;
+    width: 230px;
+  }
+}
+
+@media (max-width: 800px) {
+  .wr {
+    height: 230px;
+    width: 230px;
+  }
+}
+
+@media (max-width: 400px) {
+  .wr {
+    height: 250px;
+    width: 250px;
+  }
+}

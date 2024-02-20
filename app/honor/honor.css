@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans:wght@400;800&display=swap");
+
+.reswidth {
+  width: 75%;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(51, 51, 51);
+}
+
+.anim {
+  animation: anim 0.5s linear 2;
+  /* animation-delay: 1s; */
+  /* animation-name: anim;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: 2;
+  animation-delay: 1s; */
+}
+
+@media (max-width: 800px) {
+  .reswidth {
+    width: 100%;
+  }
+}
+
+@keyframes anim {
+  50% {
+    background-color: rgb(199, 247, 199);
+  }
+}

@@ -1,0 +1,28 @@
+.custom-slider .slick-slide {
+  margin: 0 1.5%;
+  width: 30% !important;
+}
+
+.custom-slider {
+  overflow: hidden;
+}
+
+.group {
+  height: 450px;
+  max-height: 450px;
+}
+
+@media (max-width: 800px) {
+  .custom-slider .slick-slide a {
+    display: inline-block;
+    padding: 10px;
+    margin: 2px 1px;
+  }
+}
+@media (max-width: 400px) {
+  .custom-slider .slick-slide a {
+    display: inline-block;
+    padding: 10px;
+    margin: 2px 1px;
+  }
+}

@@ -1,0 +1,12 @@
+<svg
+                width="12"
+                height="12"
+                aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg"
+                className="about__icon icon sprite-icons"
+              >
+                <use
+                  href="/sale/_nuxt/07ce1ce41ab472734d0d9a412e91822f.svg#i-play"
+                  xlink:href="/sale/_nuxt/07ce1ce41ab472734d0d9a412e91822f.svg#i-play"
+                ></use>
+              </svg>

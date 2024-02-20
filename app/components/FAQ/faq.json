@@ -1,0 +1,44 @@
+[
+    {
+        "question":"1. Grant kurslar haqiqatdan grant asosidami ?",
+        "answer":"Ha, hammaga grant beriladi.Lekin darslarni sababsiz qoldirgan yoki uyga vazifa vaqtida bajarilmagan holatda talaba grantini yuqotadi, 3 martadan ortiq dars qoldirilsa yoki uyga vazifa bajarilmasa kursdan chetlashtiriladi."
+    },
+    {
+        "question":"2. Nimaga yosh chegarasi aynan 18 dan 28 yoshgacha ?",
+        "answer":"Bizda yosh chegarasi mavjud. Grant kursga qabul qilishimiz uchun eng kamida 18 yoshda bo'lishingiz kerak. 28 yoshdan kattalar ko'p hollarda talablarimizga mos ravishda kuniga 5-7 soatgacha bo'sh vaqt ajrata olishmaydi."
+    },
+    {
+        "question":"3. Farzandim 18 yoshdan kichik, dasturlashga qiziqishi yuqori. Sizlarda o'qisa bo'lmaydimi ?",
+        "answer":"Dasturlashni o'rganishda ingliz tilini bilish va kuchli mantiqiy fikrlashga ega bo'lish kerak. Agar farzandingizni ingliz tilini bilishi va mantiqiy fikrlashi yuqori darajada bo'lsa kurslarimizga qabul qilishimiz mumkin"
+    },
+    {
+        "question":"4. Frontend yoki boshqa kurslarni tugatganman nima qilsam bo'ladi ?",
+        "answer":"Biror bir kursni 100% to'liq tugatib ( masalan frontend bo'lsa JS advanced biror bir framework ) + gitda kamida ikkita loyihangiz bo'lsa ish uchun suhbatga chaqiramiz. Lekin chala yarim bitirgan bo'lsangiz Frontend kursni boshidan boshlab o'rgatamiz."
+    },
+    {
+        "question":"5. Frontendni o'rganmasdan ( Backend, mobile, Suniy intelekt, Python, Flutter ....) ni o'rgansam bo'ladimi ?",
+        "answer":"Bo'ladi faqat bizda emas. Bizda IT bo'yicha barcha kurslar mavjud lekin faqat Frontendni to'liq tugatgandan so'ng boshqa kurslarga o'tishingiz mumkin. Ko'p yilik tajribamizga tayanib shu uslubda dasturchilarni tayyorlaymiz. Internet, DB, API va shu kabi boshlang'ich fundamental bilimlarsiz IT-ni o'rganishni maslahat bermaymiz."
+    },
+    {
+        "question":"6. 3 oyda Frontendni tugatib bo'ladimi ? ",
+        "answer":"Biz Germaniya va Amerikaning IT instruktorlari tomonidan tuzilgan kurslar bo'yicha tayyorlaymiz. Tajribamizdan kelib chiqqan holda aytadigan bo'lsak, ingliz tilini bilsangiz va kuniga 5-7 soat vaqt sarflasangiz nasib bo'lsa bemalol o'rgansa bo'ladi."
+    },
+    
+    {
+        "question":"7. Grant kurs bo'lsa sizlarga ishlab berishim kerakmi ? ",
+        "answer":"Sizda hech qanaqa ishlab berish majburiyati bo'lmaydi. Albison jamoasiga mos kelsangiz sizni jamoamizda olib qolamiz yoki boshqa IT kompaniyalarga ishga kirishingizda ko'maklashamiz. Undan tashqari Albison Academy volontyorlari safiga qo'shilishingiz mumkin."
+    },
+    {
+        "question":"8. iTransition va iTechArt kompaniyalarini sizlarga nima aloqasi bor ?",
+        "answer":"Xalqaro tajriba almashish maqsadida o'z shogirdlarimizni IT- gigant kompaniyalariga ham tayyorlaymiz. Bizning IT- markazimizni bitirgan yoshlar hozirda ushbu kompaniyalarda ishlab kelmoqda. Endilikda barcha bitiruvchilarimiz iTransition, Exadel va iTechArt talablari bo'yicha tayyorlanmoqda."
+    },
+    {
+        "question":"9. Grant kurslardan sizlarga nima foyda ?",
+        "answer":"Albison Akademyasining asosiy maqsadi foyda ko'rish emas, balki global IT kompaniyalarda ishlay oladiga dasturchilarni tayyorlash va o'zidan keyingi avlodga ham foydali bilimlarini beminnat ulashadigan hamjamiyat yaratish ."
+    },
+    {
+        "question":"10. Dasturchiman sizlarga qanday yordam berishim mumkin ?",
+        "answer":"Agar sizda dars berishga qiziqish bo'lsa va jamoamizda volontyorlik qilmoqchi bo'lsangiz - biz bilan birgalikda ishlashingiz va jamoamiz bilan o'z bilim ko'nikmalaringizni oshirishingiz mumkin. "
+    }
+
+]
