@@ -45,7 +45,7 @@ const Contactusform = () => {
           <a
             href={"tel:+998901122757"}
             type="button"
-            className=" text-xl  bg-transparent py-3 px-6 lg:px-3  hover:bg-navyblue hover:text-white "
+            className=" text-xl  bg-transparent py-3 px-6 lg:px-3  "
           >
             +998 90 112 27 57
           </a>
